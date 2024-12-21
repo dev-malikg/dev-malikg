@@ -22,11 +22,6 @@ Welcome to my GitHub! I'm a passionate developer, experimenter, and innovator wi
 
 ---
 
-## 📈 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-malikg&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 - 🌐 **Portfolio**: Coming Soon!  
 - 💼 **Mail**: malikgv.028@gmail.com  
